@@ -3,8 +3,8 @@
                   "database": "",
                   "user": "",
                   "password": "",
-                  "host": "localhost",
-                  "port": "5432"
+                  "host": "",
+                  "port": ""
                   },
   "schema": {}
 }
